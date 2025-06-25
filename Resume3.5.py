@@ -1,6 +1,6 @@
 import streamlit as st
 import re
-from pdfminer.high_level import extract_text
+from pdfminer.six
 import docx
 import spacy
 from typing import List
